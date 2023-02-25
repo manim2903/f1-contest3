@@ -24,3 +24,10 @@
     display: flex;
     justify-content:space-evenly;
 }
+.table{
+    border: 1px solid black;
+}
+.table-data{
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
